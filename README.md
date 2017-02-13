@@ -1,7 +1,7 @@
 # XiaomiVacuumDisassembly
 Xiaomi Mi Robot Vacuum Cleaner Disassembly
 
-
+![PCB](https://raw.githubusercontent.com/EliasKotlyar/XiaomiVacuumDisassembly/master/2017-02-07%2020.06.35.jpg)
 
 
 ### My Post about my efforts to "hack" this robot:
